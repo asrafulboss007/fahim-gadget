@@ -1,0 +1,84 @@
+.container{
+    margin-bottom: 120px;
+   
+   
+}
+
+
+
+
+.navigation:hover{
+
+          font-size: 20px;
+          border: 1px solid rgb(0, 0, 0);
+          border-radius: 5px;
+          background-image: linear-gradient(to bottom,orange,cyan);
+          font-weight: 500px;
+         }
+
+
+
+
+
+
+.buy-now-button{
+    color: rgb(255, 255, 255);
+    border: none;
+    background-image: linear-gradient(to left,rgb(90, 53, 138),green);
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.pad{
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 10px;
+    background-image: url(img/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(143, 189, 141);
+}
+
+.carousel-item{
+    padding: 20px 30px;
+}
+
+
+.card-footer{
+    border-top: none;
+    padding-bottom: 30px;
+}
+
+.card{
+    padding: 30px;
+    border: none;
+    box-shadow: 5px 5px 15px rgb(0, 0, 0);   /*card shadow*/
+    text-align: center;
+    
+    
+}
+
+#laptop{
+    text-decoration: none;
+    color: black;
+}
+
+#smartphone {
+    text-decoration: none; 
+    color: black;
+}
+
+.redmi{
+    color: blue;    /*phone name*/
+}
+.iphone{
+    color: rgb(87, 52, 58);   /*phone name*/
+}
+
+.samsung{
+    color: black;   /*phone name*/
+}
+
+
+         
+
+
