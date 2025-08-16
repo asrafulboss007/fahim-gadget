@@ -1,5 +1,7 @@
 .container{
     margin-bottom: 120px;
+    
+    
    
    
 }
@@ -79,6 +81,67 @@
 }
 
 
-         
+.h{
+   border-radius: 5px;
+   margin:2px 45%;
+   background-image: linear-gradient(to left,rgb(255, 0, 0),green);
+   
+}
+
+.cate{
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(2, 75, 99);
+}
+
+.mar{
+    
+    margin-top: 60px;
+    background-color: white;
+    height: 180px;
+    width: 180px;
+    box-shadow: 5px 5px 30px rgb(219, 219, 219);
+    padding-right: 10px;
+    border-radius: 5px;
+}
+.marg{
+    margin-top: 40px;
+     background-color: white;
+    height: 180px;
+    width: 180px;
+    box-shadow: 5px 5px 30px rgb(219, 219, 219);
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+.margi{
+    margin-top: 40px;
+    background-color: white;
+    height: 180px;
+    width: 180px;
+    box-shadow: 5px 5px 30px rgb(219, 219, 219);
+    padding-right: 10px;
+    border-radius: 5px;
+}
+    
 
 
+.ma{
+    margin-top: 40px;
+    box-shadow: 5px 5px 30px rgb(221, 220, 221);
+    border: none;
+    background-color: white;
+}
+
+.cata-1{
+    margin: 20px;
+}
+.cata-2{
+    margin: 20px;
+}
+
+.bg{
+    background-image: url(img/bg-2.png);
+    
+    
+}
